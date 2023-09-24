@@ -1,0 +1,16 @@
+.cart-btn:hover{
+  color: lightgreen;
+  font-weight: 800;
+  transform: scale(0.9);
+}
+
+.wish-btn:hover{
+    color: red;
+    transform: scale(0.9);
+    
+}
+.navbar-bg{
+    background-color: orange;
+}
+
+

@@ -1,0 +1,9 @@
+.footer-bg{
+    background-color: black;
+}
+
+.creator-text{
+    color: white;
+    background-image: linear-gradient(to right top, #181518, #2a1532, #351451, #341675, #0c1f9f);
+}
+
